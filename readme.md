@@ -1,3 +1,2 @@
-first commit by main
-
-test commit by soft
+# CRUD Laravel project
+Laravel, MySQL, guzzle, fruitcake...
